@@ -1,0 +1,4 @@
+temp=(float)(input("Enter the tempereture in celsius:"))
+f=(temp*1.8)+322
+print ("Tempereture in Fahrrenheit is:")
+print (f)
