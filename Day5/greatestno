@@ -1,0 +1,7 @@
+num1 = input('Enter frist number:')
+num2 = input('Enter Second number:')
+
+if num1 < num2 :
+    print ('{0} is greater.'.format(num2))
+else :
+    print ('{0} is greater.'.format(num1))

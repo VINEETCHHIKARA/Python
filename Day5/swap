@@ -1,0 +1,10 @@
+num1 = input('Enter First numder')
+num2 = input('Enter Second number')
+
+temp=0
+
+temp = num1
+num1 = num2
+num2 = temp
+
+print ('Num1 = {0} and Num2 = {1}'.format(num1,num2))
